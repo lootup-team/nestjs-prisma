@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/lootup-team/nestjs-prisma/compare/v1.0.0...v1.1.0) (2025-06-30)
+
+
+### Features
+
+* add `CreatePrismaOptionsFactory` update`ConfigurableModuleBuilder` ([c1c75de](https://github.com/lootup-team/nestjs-prisma/commit/c1c75decc946ac10772d4c8aa440302cc6a997bf))
+
 # 1.0.0 (2025-06-30)
 
 
