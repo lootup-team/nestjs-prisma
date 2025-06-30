@@ -1,6 +1,6 @@
 # NestJs Prisma
 
-[![npm version](https://badge.fury.io/js/@lootupteam-nestjs-prisma.svg)](https://badge.fury.io/js/%40lootupteam%2Fnestjs-prisma)
+[![npm version](https://badge.fury.io/js/%40lootupteam%2Fnestjs-prisma.svg)](https://badge.fury.io/js/%40lootupteam%2Fnestjs-prisma)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Overview
