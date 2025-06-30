@@ -8,7 +8,7 @@ export interface PrismaModuleOptions<T extends PrismaClientType> {
   customService?: Type<PrismaService<T>>;
 }
 
-export interface CreatePrismaOptionsFactory<T extends PrismaClientType> {
+export interface PrismaOptionsFactory<T extends PrismaClientType> {
   createPrismaOptions():
     | PrismaModuleOptions<T>
     | Promise<PrismaModuleOptions<T>>;
