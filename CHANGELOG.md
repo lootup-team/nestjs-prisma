@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/lootup-team/nestjs-prisma/compare/v1.1.1...v1.1.2) (2025-06-30)
+
+
+### Bug Fixes
+
+* `CreatePrismaOptionsFactory` -> `PrismaOptionsFactory` ([0c1678a](https://github.com/lootup-team/nestjs-prisma/commit/0c1678a852f7a70e6faa962095a4c46dfd23ea0a))
+* `CreatePrismaOptionsFactory` -> `PrismaOptionsFactory` in index ([df09128](https://github.com/lootup-team/nestjs-prisma/commit/df09128e5cc39e71d0db758d7e2e410f59deb5b2))
+
 ## [1.1.1](https://github.com/lootup-team/nestjs-prisma/compare/v1.1.0...v1.1.1) (2025-06-30)
 
 

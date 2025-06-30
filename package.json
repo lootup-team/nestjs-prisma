@@ -1,6 +1,6 @@
 {
   "name": "@lootupteam/nestjs-prisma",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A utility for working with Prisma in NestJS. This package offers abstraction and a dedicated implementation that can be extended with a custom class.",
   "author": "DestyK <nikita.karpov.1910@mail.ru>",
   "private": false,
